@@ -1,6 +1,12 @@
+**Notice:** Newer developments of Temporal Millet, e.g., with effect handlers, have moved to and take place in [**a new repository**](https://github.com/danelahman/temporal-millet).
+
 # Temporal Millet
 
-Temporal Millet was implemented as part of a Master's thesis that showcases how type systems can be used to track the temporal availability of resources, and how types can be inferred for unannotated terms in the presence of temporal effects. It is a pure ML-like language, built as an extension of Millet (https://github.com/matijapretnar/millet). The concepts implemented in Temporal Millet are hugely inspired by the work of Ahman and Žajdela (https://msfp-workshop.github.io/msfp2024/submissions/ahman+%c5%beajdela.pdf).
+Temporal Millet was implemented as part of a Master's thesis that showcases how type systems can be used to track the temporal availability of resources, and how types can be inferred for unannotated terms in the presence of temporal effects. 
+
+It is a pure ML-like language, built as an extension of [Millet](https://github.com/matijapretnar/millet). 
+
+The concepts implemented in Temporal Millet are hugely inspired by the work of [Ahman and Žajdela](https://msfp-workshop.github.io/msfp2024/submissions/ahman+%c5%beajdela.pdf).
 
 ## How to install and run Temporal Millet?
 
